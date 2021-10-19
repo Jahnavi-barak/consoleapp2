@@ -1,0 +1,16 @@
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\bin\Debug\net5.0\consoleapp2.exe
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\bin\Debug\net5.0\consoleapp2.deps.json
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\bin\Debug\net5.0\consoleapp2.runtimeconfig.json
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\bin\Debug\net5.0\consoleapp2.runtimeconfig.dev.json
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\bin\Debug\net5.0\consoleapp2.dll
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\bin\Debug\net5.0\ref\consoleapp2.dll
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\bin\Debug\net5.0\consoleapp2.pdb
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.csproj.AssemblyReference.cache
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.AssemblyInfoInputs.cache
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.AssemblyInfo.cs
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.dll
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\ref\consoleapp2.dll
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.pdb
+C:\Users\Sandeep Kumar\source\repos\consoleapp2\consoleapp2\obj\Debug\net5.0\consoleapp2.genruntimeconfig.cache
